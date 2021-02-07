@@ -1,0 +1,25 @@
+{
+  "id": "fastfail",
+  "name": "Fast Fail",
+  "version": "1.0.0",
+  "icon": "cover.png",
+  "coverImageFile": "cover.png",
+  "author": "gabriella ✨#6859",
+  "description": [
+    "Speeds up the fail animation!"
+  ],
+  "category": "Gameplay",
+  "gameVersion": "1.13.2",
+  "platform": "Quest",
+  "components": [
+    {
+      "type": "HookMod",
+      "installAction": {
+        "installLibraryFile": "libfastfail.so"
+      },
+      "uninstallAction": {
+        "removeLibraryFile": "libfastfail.so"
+      }
+    }
+  ]
+}
