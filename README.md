@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/FastFail/blob/master/cover-small.png" alt="Fast Fail" /> <br>
-  <b>Fast Fail</b></br>
+  <b>v1.0.0</b></br>
   Speed up that fail animation!
 </p>
 
