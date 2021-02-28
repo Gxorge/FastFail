@@ -1,4 +1,4 @@
-![Team City](https://teamcity.gabriella.moe/app/rest/builds/aggregated/strob:(buildType:(project:(id:FastFail)))/statusIcon.svg)
+[![Build status](https://teamcity.gabriella.moe/guestAuth/app/rest/builds/buildType:(id:FastFail_Build)/statusIcon.svg)](https://teamcity.gabriella.moe/viewType.html?buildTypeId=FastFail_Build)
 <br>
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/FastFail/blob/master/cover-small.png" alt="Fast Fail" /> <br>
