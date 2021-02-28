@@ -1,4 +1,4 @@
-![Team City](http://ssh.centurion.pw:8111/app/rest/builds/aggregated/strob:(buildType:(project:(id:FastFail)))/statusIcon.svg)
+![Team City](https://teamcity.gabriella.moe/app/rest/builds/aggregated/strob:(buildType:(project:(id:FastFail)))/statusIcon.svg)
 <br>
 <p align="center">
   <img src="https://github.com/IsGabriellaCurious/FastFail/blob/master/cover-small.png" alt="Fast Fail" /> <br>
